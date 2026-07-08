@@ -1,0 +1,102 @@
+[
+    {
+        "question":"What is the ideal length of a fresher's resume?",
+        "options":[
+            "One page",
+            "Three pages",
+            "Five pages",
+            "Ten pages"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which email address looks more professional on a resume?",
+        "options":[
+            "rahul.sharma@gmail.com",
+            "coolboy123@gmail.com",
+            "kingofworld@gmail.com",
+            "crazygamer@gmail.com"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which section should appear in a resume?",
+        "options":[
+            "Skills",
+            "Favorite Movie",
+            "Lucky Number",
+            "Daily Routine"
+        ],
+        "answer":0
+    },
+    {
+        "question":"What should you mention under the Projects section?",
+        "options":[
+            "Projects you have completed",
+            "Your favorite games",
+            "TV shows you watch",
+            "Vacation plans"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Why should you check your resume before submitting it?",
+        "options":[
+            "To remove spelling and grammar mistakes",
+            "To make it longer",
+            "To add random information",
+            "To change the font many times"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which font style is commonly used in resumes?",
+        "options":[
+            "Calibri",
+            "Comic Sans",
+            "Papyrus",
+            "Jokerman"
+        ],
+        "answer":0
+    },
+    {
+        "question":"What should you include in the Education section?",
+        "options":[
+            "Your qualifications and college",
+            "Your hobbies only",
+            "Your favorite food",
+            "Your shopping list"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which of these is a technical skill?",
+        "options":[
+            "JavaScript",
+            "Cooking",
+            "Dancing",
+            "Painting"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Should you customize your resume for different jobs?",
+        "options":[
+            "Yes",
+            "No",
+            "Only if asked",
+            "Never"
+        ],
+        "answer":0
+    },
+    {
+        "question":"What is the purpose of a resume?",
+        "options":[
+            "To showcase your qualifications and skills",
+            "To tell jokes",
+            "To write stories",
+            "To share personal secrets"
+        ],
+        "answer":0
+    }
+]

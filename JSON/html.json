@@ -1,0 +1,102 @@
+[
+    {
+        "question":"What does HTML stand for?",
+        "options":[
+            "Hyper Text Markup Language",
+            "Home Tool Markup Language",
+            "Hyperlinks and Text Markup Language",
+            "Hyper Tool Machine Language"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which HTML tag is used to create a hyperlink?",
+        "options":[
+            "<a>",
+            "<link>",
+            "<img>",
+            "<href>"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which tag is used to insert an image in HTML?",
+        "options":[
+            "<img>",
+            "<image>",
+            "<picture>",
+            "<src>"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which tag is used to create the largest heading?",
+        "options":[
+            "<h1>",
+            "<h6>",
+            "<head>",
+            "<title>"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which HTML tag is used to create a paragraph?",
+        "options":[
+            "<p>",
+            "<para>",
+            "<text>",
+            "<paragraph>"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which HTML tag is used to create a line break?",
+        "options":[
+            "<br>",
+            "<break>",
+            "<lb>",
+            "<hr>"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which section contains information about the webpage such as the title and meta tags?",
+        "options":[
+            "<head>",
+            "<body>",
+            "<footer>",
+            "<section>"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which HTML tag is used to create an unordered list?",
+        "options":[
+            "<ul>",
+            "<ol>",
+            "<li>",
+            "<list>"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which HTML tag is used to create a table row?",
+        "options":[
+            "<tr>",
+            "<td>",
+            "<th>",
+            "<table>"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which attribute specifies the destination of a hyperlink?",
+        "options":[
+            "href",
+            "src",
+            "alt",
+            "id"
+        ],
+        "answer":0
+    }
+]

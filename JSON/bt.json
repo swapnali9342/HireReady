@@ -1,0 +1,102 @@
+[
+    {
+        "question":"What is Bootstrap?",
+        "options":[
+            "A CSS framework",
+            "A programming language",
+            "A database",
+            "A web browser"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which class creates a responsive fixed-width container in Bootstrap?",
+        "options":[
+            "container",
+            "wrapper",
+            "row",
+            "box"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which Bootstrap class creates a full-width container?",
+        "options":[
+            "container-fluid",
+            "container-full",
+            "container-wide",
+            "container"
+        ],
+        "answer":0
+    },
+    {
+        "question":"How many columns are there in Bootstrap's grid system?",
+        "options":[
+            "12",
+            "10",
+            "16",
+            "24"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which class is used to create a button in Bootstrap?",
+        "options":[
+            "btn",
+            "button",
+            "btn-style",
+            "button-primary"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which class gives a button the primary Bootstrap color?",
+        "options":[
+            "btn-primary",
+            "btn-blue",
+            "primary-btn",
+            "button-primary"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which class is used to create a row in Bootstrap?",
+        "options":[
+            "row",
+            "col",
+            "grid",
+            "container"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which class is used to create a column in Bootstrap?",
+        "options":[
+            "col",
+            "column",
+            "grid-col",
+            "row-col"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which Bootstrap class centers text?",
+        "options":[
+            "text-center",
+            "center-text",
+            "align-center",
+            "text-middle"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which Bootstrap class adds margin to all sides?",
+        "options":[
+            "m-3",
+            "p-3",
+            "mt-3",
+            "mx-3"
+        ],
+        "answer":0
+    }
+]

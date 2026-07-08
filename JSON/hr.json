@@ -1,0 +1,102 @@
+[
+    {
+        "question":"What is usually the first question asked in an HR interview?",
+        "options":[
+            "Tell me about yourself",
+            "What is Java?",
+            "Write a program",
+            "Solve an algorithm"
+        ],
+        "answer":0
+    },
+    {
+        "question":"What should you do before attending an interview?",
+        "options":[
+            "Research the company",
+            "Arrive late",
+            "Ignore the job description",
+            "Avoid preparing"
+        ],
+        "answer":0
+    },
+    {
+        "question":"What is the best way to answer HR questions?",
+        "options":[
+            "Be honest and confident",
+            "Give very short answers only",
+            "Guess the answers",
+            "Avoid eye contact"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which of the following is considered a strength?",
+        "options":[
+            "Good communication skills",
+            "Poor time management",
+            "Lack of confidence",
+            "Avoiding teamwork"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Why do companies conduct HR interviews?",
+        "options":[
+            "To evaluate personality and communication skills",
+            "Only to test coding skills",
+            "Only to check handwriting",
+            "Only to verify age"
+        ],
+        "answer":0
+    },
+    {
+        "question":"What should you wear for a professional interview?",
+        "options":[
+            "Formal attire",
+            "Beach wear",
+            "Sports uniform",
+            "Night dress"
+        ],
+        "answer":0
+    },
+    {
+        "question":"How should you respond if you don't know the answer to a question?",
+        "options":[
+            "Admit it politely and try your best",
+            "Make up an answer",
+            "Stay silent throughout",
+            "Change the topic"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which quality is most valued by employers?",
+        "options":[
+            "Positive attitude",
+            "Being rude",
+            "Ignoring deadlines",
+            "Avoiding responsibility"
+        ],
+        "answer":0
+    },
+    {
+        "question":"What is the purpose of asking about your strengths and weaknesses?",
+        "options":[
+            "To understand your self-awareness",
+            "To test your coding skills",
+            "To check your typing speed",
+            "To test your memory"
+        ],
+        "answer":0
+    },
+    {
+        "question":"How should you end an HR interview?",
+        "options":[
+            "Thank the interviewer for their time",
+            "Leave without speaking",
+            "Ask for the job immediately",
+            "Ignore the interviewer"
+        ],
+        "answer":0
+    }
+]

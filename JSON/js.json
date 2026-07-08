@@ -1,0 +1,102 @@
+[
+    {
+        "question":"What is JavaScript mainly used for?",
+        "options":[
+            "Adding interactivity to web pages",
+            "Designing web pages",
+            "Creating databases",
+            "Managing servers only"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which keyword is used to declare a variable in JavaScript?",
+        "options":[
+            "let",
+            "int",
+            "string",
+            "define"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which function is used to display a message box?",
+        "options":[
+            "alert()",
+            "prompt()",
+            "console.log()",
+            "print()"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which symbol is used for single-line comments in JavaScript?",
+        "options":[
+            "//",
+            "/*",
+            "#",
+            "<!--"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which method is used to print output in the browser console?",
+        "options":[
+            "console.log()",
+            "document.write()",
+            "alert()",
+            "print()"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which JavaScript method is used to select an element by its ID?",
+        "options":[
+            "document.getElementById()",
+            "document.querySelectorAll()",
+            "document.getElementsByClassName()",
+            "document.write()"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which keyword is used to declare a constant variable?",
+        "options":[
+            "const",
+            "let",
+            "var",
+            "constant"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which event occurs when a button is clicked?",
+        "options":[
+            "click",
+            "hover",
+            "load",
+            "change"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which operator is used for strict equality comparison?",
+        "options":[
+            "===",
+            "==",
+            "=",
+            "!="
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which function is used to ask the user for input?",
+        "options":[
+            "prompt()",
+            "alert()",
+            "confirm()",
+            "console.log()"
+        ],
+        "answer":0
+    }
+]

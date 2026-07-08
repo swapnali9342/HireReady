@@ -1,0 +1,102 @@
+[
+    {
+        "question":"What does CSS stand for?",
+        "options":[
+            "Cascading Style Sheets",
+            "Creative Style Sheets",
+            "Computer Style Sheets",
+            "Colorful Style Sheets"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which HTML tag is used to link an external CSS file?",
+        "options":[
+            "<link>",
+            "<style>",
+            "<css>",
+            "<script>"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which CSS property is used to change the text color?",
+        "options":[
+            "color",
+            "font-color",
+            "text-color",
+            "background-color"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which CSS property changes the background color of an element?",
+        "options":[
+            "background-color",
+            "color",
+            "bgcolor",
+            "background"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which CSS property is used to make text bold?",
+        "options":[
+            "font-weight",
+            "font-style",
+            "text-decoration",
+            "font-size"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which CSS property changes the font size?",
+        "options":[
+            "font-size",
+            "text-size",
+            "font-style",
+            "size"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which CSS property adds space inside an element's border?",
+        "options":[
+            "padding",
+            "margin",
+            "spacing",
+            "border-spacing"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which CSS property adds space outside an element's border?",
+        "options":[
+            "margin",
+            "padding",
+            "spacing",
+            "border"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which CSS property is used to round the corners of an element?",
+        "options":[
+            "border-radius",
+            "corner-radius",
+            "border-style",
+            "radius"
+        ],
+        "answer":0
+    },
+    {
+        "question":"Which CSS property is used to align text to the center?",
+        "options":[
+            "text-align",
+            "align-text",
+            "text-center",
+            "justify-content"
+        ],
+        "answer":0
+    }
+]

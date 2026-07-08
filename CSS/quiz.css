@@ -1,0 +1,205 @@
+
+/* ===========================
+   QUIZ HERO
+=========================== */
+
+.quiz-hero{
+
+    padding:90px 0;
+
+}
+
+.quiz-hero h1{
+
+    font-size:58px;
+
+    font-weight:700;
+
+    margin:25px 0;
+
+    color:var(--text);
+
+}
+
+.quiz-hero h1 span{
+
+    color:var(--primary);
+
+}
+
+.quiz-hero p{
+
+    font-size:18px;
+
+    color:#6b7280;
+
+    line-height:1.8;
+
+    margin-bottom:35px;
+
+}
+
+.quiz-image{
+
+    width:100%;
+    max-width:500px;
+
+}
+
+@media(max-width:991px){
+
+    .quiz-hero{
+
+        text-align:center;
+
+    }
+
+    .quiz-image{
+
+        margin-top:40px;
+
+    }
+
+}
+/* ===========================
+   QUIZ SECTION
+=========================== */
+
+.quiz-section{
+
+    padding:90px 0;
+
+}
+
+.quiz-box{
+
+    max-width:850px;
+
+    margin:auto;
+
+    background:var(--card);
+
+    border:1px solid var(--border);
+
+    border-radius:20px;
+
+    padding:40px;
+
+    box-shadow:0 10px 25px rgba(0,0,0,.05);
+
+}
+
+.quiz-top{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    margin-bottom:20px;
+
+    font-weight:600;
+
+}
+
+.progress{
+
+    height:12px;
+
+    border-radius:20px;
+
+}
+
+.progress-bar{
+
+    background:var(--primary);
+
+}
+
+.quiz-box h3{
+
+    margin:35px 0;
+
+    font-size:28px;
+
+}
+
+.options{
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:20px;
+
+}
+
+.option-btn{
+
+    width:100%;
+
+    text-align:left;
+
+    padding:18px 20px;
+
+    border:2px solid var(--border);
+
+    border-radius:15px;
+
+    background:white;
+
+    cursor:pointer;
+
+    transition:.3s;
+
+    font-size:17px;
+
+}
+
+.option-btn:hover{
+
+    border-color:var(--primary);
+
+    background:#fde7f3;
+
+}
+
+.quiz-buttons{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    margin-top:40px;
+
+}
+
+@media(max-width:768px){
+
+.quiz-box{
+
+    padding:25px;
+
+}
+
+.quiz-box h3{
+
+    font-size:22px;
+
+}
+
+.quiz-buttons{
+
+    flex-direction:column;
+
+    gap:15px;
+
+}
+
+.quiz-buttons button{
+
+    width:100%;
+
+}
+
+}
+

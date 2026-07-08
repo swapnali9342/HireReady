@@ -1,0 +1,363 @@
+/* ===========================
+   LEARN HERO
+=========================== */
+
+.learn-hero{
+
+    padding:90px 0;
+
+}
+
+.learn-hero h1{
+
+    font-size:58px;
+
+    font-weight:700;
+
+    margin:25px 0;
+
+    color:var(--text);
+
+}
+
+.learn-hero h1 span{
+
+    color:var(--primary);
+
+}
+
+.learn-hero p{
+
+    font-size:18px;
+
+    color:#6b7280;
+
+    line-height:1.8;
+
+    margin-bottom:35px;
+
+}
+
+.learn-image{
+
+    max-width:520px;
+
+    width:100%;
+
+}
+
+@media(max-width:991px){
+
+.learn-hero{
+
+    text-align:center;
+
+}
+
+.learn-image{
+
+    margin-top:40px;
+
+}
+
+}
+/* ===========================
+   LEARNING MODULES
+=========================== */
+
+.modules{
+
+    padding:90px 0;
+
+}
+
+.module-card{
+
+    background:var(--card);
+
+    border:1px solid var(--border);
+
+    border-radius:20px;
+
+    padding:35px 25px;
+
+    text-align:center;
+
+    height:100%;
+
+    transition:.3s;
+
+    box-shadow:0 10px 25px rgba(0,0,0,.05);
+
+}
+
+.module-card:hover{
+
+    transform:translateY(-10px);
+
+    box-shadow:0 15px 35px rgba(236,72,153,.20);
+
+}
+
+.module-card i{
+
+    font-size:55px;
+
+    color:var(--primary);
+
+    margin-bottom:20px;
+
+}
+
+.module-card h3{
+
+    font-size:28px;
+
+    font-weight:700;
+
+    margin-bottom:15px;
+
+    color:var(--text);
+
+}
+
+.module-card p{
+
+    color:#6b7280;
+
+    line-height:1.8;
+
+    min-height:80px;
+
+}
+
+.module-card span{
+
+    display:block;
+
+    color:var(--primary);
+
+    font-weight:600;
+
+    margin-bottom:20px;
+
+}
+
+/* ===========================
+   LEARNING ROADMAP
+=========================== */
+
+.learning-roadmap{
+
+    padding:90px 0;
+
+}
+
+.roadmap-card{
+
+    background:var(--card);
+
+    border:1px solid var(--border);
+
+    border-radius:20px;
+
+    padding:30px 20px;
+
+    text-align:center;
+
+    height:100%;
+
+    position:relative;
+
+    transition:.3s;
+
+    box-shadow:0 10px 25px rgba(0,0,0,.05);
+
+}
+
+.roadmap-card:hover{
+
+    transform:translateY(-10px);
+
+    box-shadow:0 15px 35px rgba(236,72,153,.18);
+
+}
+
+.step-number{
+
+    width:35px;
+
+    height:35px;
+
+    background:var(--primary);
+
+    color:#fff;
+
+    border-radius:50%;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    font-weight:700;
+
+    position:absolute;
+
+    top:15px;
+
+    right:15px;
+
+}
+
+.roadmap-card i{
+
+    font-size:50px;
+
+    color:var(--primary);
+
+    margin-bottom:20px;
+
+}
+
+.roadmap-card h5{
+
+    font-weight:700;
+
+    margin-bottom:10px;
+
+    color:var(--text);
+
+}
+
+.roadmap-card p{
+
+    color:#6b7280;
+
+    margin:0;
+
+}
+
+/* ===========================
+   FEATURED MODULE
+=========================== */
+
+.featured-module{
+
+    padding:90px 0;
+
+}
+
+.featured-image{
+
+    width:100%;
+    max-width:500px;
+
+}
+
+.featured-module h2{
+
+    font-size:42px;
+
+    font-weight:700;
+
+    margin:20px 0;
+
+    color:var(--text);
+
+}
+
+.featured-module p{
+
+    color:#6b7280;
+
+    line-height:1.8;
+
+    margin-bottom:25px;
+
+}
+
+.feature-list{
+
+    list-style:none;
+
+    padding:0;
+
+    margin-bottom:30px;
+
+}
+
+.feature-list li{
+
+    margin-bottom:12px;
+
+    color:var(--text);
+
+    font-weight:500;
+
+}
+
+/* ===========================
+   LEARNING TIPS
+=========================== */
+
+.learning-tips{
+
+    padding:90px 0;
+
+}
+
+.tip-card{
+
+    background:var(--card);
+
+    border:1px solid var(--border);
+
+    border-radius:20px;
+
+    padding:35px 25px;
+
+    text-align:center;
+
+    transition:.3s;
+
+    height:100%;
+
+    box-shadow:0 10px 25px rgba(0,0,0,.05);
+
+}
+
+.tip-card:hover{
+
+    transform:translateY(-10px);
+
+    box-shadow:0 15px 35px rgba(236,72,153,.18);
+
+}
+
+.tip-card i{
+
+    font-size:48px;
+
+    color:var(--primary);
+
+    margin-bottom:20px;
+
+}
+
+.tip-card h4{
+
+    margin-bottom:15px;
+
+    font-weight:700;
+
+}
+
+.tip-card p{
+
+    color:#6b7280;
+
+    line-height:1.7;
+
+}
